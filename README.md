@@ -1,4 +1,4 @@
-# payday-silent-aim
+# payday-silent-aim-payday 2
 this is my new mod silent aim best
 contact me in discord yalokgar#8435 I will help everyone
-payday 2
+Payday 2
