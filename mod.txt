@@ -1,0 +1,20 @@
+{
+	"name" : "YALOKGAR aim",
+	"description" : "Silen",
+	"author" : "YALOKGAR",
+	"contact" : "...",
+	"version" : "1.0",
+	"blt_version" : 2,
+	"keybinds" : 
+	[
+		{
+			"keybind_id" : "keybind_pSilent",
+			"name" : "Silent keybind",
+			"description" : "...",
+			"script_path" : "silent.lua",
+			"run_in_menu" : false,
+			"run_in_game" : true,
+			"localized" : false
+		},
+	]
+}
